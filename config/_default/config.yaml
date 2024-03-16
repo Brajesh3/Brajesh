@@ -1,4 +1,4 @@
-baseURL: https://hbs-skeleton.netlify.app/
+baseURL: https://brajesh3.github.io/
 title: Hugo Bootstrap Skeleton
 theme: github.com/razonyang/hugo-theme-bootstrap
 copyright: 'Copyright © 2016-{year} Razon Yang. All Rights Reserved.'
@@ -34,6 +34,6 @@ permalinks:
 # module:
   # proxy: https://goproxy.cn
 
-# services:
-#   disqus:
-#     shortname: your-disqus-shortname
+services:
+  disqus:
+    shortname: brajesh-kumar
